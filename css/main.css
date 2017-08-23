@@ -1,3 +1,13 @@
 body{
-background: #777;	
+background: #13c6cf;	
+}
+
+.container {
+  width: 100%;
+}
+
+
+.header {
+  padding: 50px;
+  text-transform: uppercase;
 }
